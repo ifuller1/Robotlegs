@@ -5,13 +5,7 @@
 /bin-release/*
 /bin/*
 docs/*
-obj/*
-
-.actionScriptProperties
-.flexProperties
-.flexLibProperties
-.FlexUnitSettings
-.project
+obj
 
 Icon
 Thumbs.db
